@@ -1,4 +1,3 @@
-// src/app/venues/page.tsx
 import Link from "next/link";
 import ClientSearch from "./components/search";
 
